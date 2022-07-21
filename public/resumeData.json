@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "E.P. Haque",
+    "occupation": "Smart Contract Engineer",
+    "description": "I'm an energetic US-based programmer who taught myself to code 8 years ago, and it's been one hell of a ride- Check out my portfolio!",
+    "image": "profilepic.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Like what you see? Reach out!",
+    "email": "ephaque92@icloud.com",
+    "phone": "775-505-7115",
+    "address": {
+      "street": "5597 Seminary Rd #2307",
+      "city": "Falls Church",
+      "state": "Virginia",
+      "zip": "22041"
+    },
+    "website": "epxsweresume.io",
+    "resumedownload": "epxsweresume.io",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tbakerx",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Nevada, Reno",
+        "degree": "Political Science, International Affairs",
+        "graduated": "2011-2015",
+        "description": "Attended a 4 year university while working full time as a High School Debate Coach and High School Substitute Teacher"
+      }
+    ],
+    "work": [
+      {
+        "company": "Awesome Design Studio",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+
+    "skills": [
+      {
+        "name": "Solidity",
+        "level": "85%"
+      },
+      {
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "React.JS",
+        "level": "60%"
+      },
+      {
+        "name": "Web3.js",
+        "level": "75%"
+      },
+      {
+        "name": "Ethers.js",
+        "level": "75%"
+      },
+      {
+        "name": "Truffle",
+        "level": "85%"
+      },
+      {
+        "name": "Hard",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Resume",
+        "category": "Check out the nitty gritty for this resume!",
+        "image": "blue.png",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "SuperbowlPools",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "purple.png",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "BuildBNB",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "yellow.png",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "DeCentraland",
+        "category": "A React based resume website template",
+        "image": "pink.png",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "eScrimz",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "green.png",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "deVoters",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "sky.png",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  }
+}
+  
